@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Wonderland</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="logo">
+            <h1>Wonderland</h1>
+        </div>
+        <nav>
+            <ul>
+                <li><a href="#prototipazione">Prototipazione</a></li>
+                <li><a href="#borse">Modelli di Borse</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <section id="prototipazione">
+        <h2>Prototipazione con 3D Printing e Laser Cutting</h2>
+        <p>Scopri i nostri progetti di prototipazione realizzati con stampa 3D e taglio laser. Ogni creazione è un'idea trasformata in realtà.</p>
+        <div class="gallery">
+            <div class="item">
+                <img src="https://via.placeholder.com/300" alt="Prototipo 1">
+                <p>Prototipo 1</p>
+            </div>
+            <div class="item">
+                <img src="https://via.placeholder.com/300" alt="Prototipo 2">
+                <p>Prototipo 2</p>
+            </div>
+            <div class="item">
+                <img src="https://via.placeholder.com/300" alt="Prototipo 3">
+                <p>Prototipo 3</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="borse">
+        <h2>Modelli di Borse</h2>
+        <p>Esplora i vari modelli di borse creati con materiali innovativi e design unici. Ogni borsa è personalizzabile.</p>
+        <div class="bag-gallery">
+            <div class="item">
+                <img src="https://via.placeholder.com/300" alt="Borsa 1">
+                <p>Borsa 1</p>
+            </div>
+            <div class="item">
+                <img src="https://via.placeholder.com/300" alt="Borsa 2">
+                <p>Borsa 2</p>
+            </div>
+            <div class="item">
+                <img src="https://via.placeholder.com/300" alt="Borsa 3">
+                <p>Borsa 3</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Wonderland | Realizzato con passione</p>
+    </footer>
+</body>
+</html>
